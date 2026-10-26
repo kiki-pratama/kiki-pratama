@@ -1,6 +1,6 @@
 <!-- Header Banner Gelombang (Versi Stabil) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=006994&height=200&section=header&text=Hi!%20I'm%20Kiki%20Pratama&fontSize=45&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=006994&height=200&section=header&text=Hi!%20I'm%20Kiki%20Welcome!&fontSize=45&fontColor=ffffff" width="100%" alt="Header Banner" />
   
   <br><br>
 
