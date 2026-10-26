@@ -32,8 +32,8 @@ Seorang Tech Enthusiat yang lagi eksplorasi Artificial Intelligence, Cybersecuri
 
 <!-- Visual Animasi Gundam & Data Grid -->
 <div align="center">
-  <h3>🤖 Mecha Dashboard & Contribution Grid</h3>
-  <img src="https://raw.githubusercontent.com/kiki-pratama/kiki-pratama/main/gundam-dashboard.gif" width="95%" alt="Gundam Animated Dashboard" />
+  <h3>🤖 Dashboard</h3>
+  <img src="gundam.jpg" width="95%" alt="Gundam Animated Dashboard" />
 </div>
 
 <br>
