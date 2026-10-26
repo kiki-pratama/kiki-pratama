@@ -21,12 +21,20 @@
 
 ### 👨‍💻 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" height="25" />
 
-Tech Enthusiat yang lagi eksplorasi AI, Cybersecurity & Fullstack Dev. 
+Seorang Tech Enthusiat yang lagi eksplorasi Artificial Intelligence, Cybersecurity, dan IT Dev.
 
 - 🎯 **Main Goals:** Mengembangkan agen AI *multimodal* dan aplikasi berbasis data.
-- 💡 **Specialist:** Python, integrasi LLM (Google Gemini API, Hugging Face), dan *rapid prototyping* menggunakan Streamlit.
-- 🏋️‍♂️ **Me Time:** Rajin Riset & develop something unique yang bermanfaat!
-- 📫 **Let's Connect:** <a href="mailto:rizkiangga866@gmail.com">Kirim Email</a> | <a href="https://barokahweb-solutions.netlify.app/bws.html">Jasa Manage Service Web Apps</a>
+- 💡 **Spesialist:** Python, integrasi LLM (Google Gemini API, Hugging Face), dan *rapid prototyping* menggunakan Streamlit.
+- 🏋️‍♂️ **Daily Routine:** Saya rutin berolahraga dan menjaga kebugaran melalui pola defisit kalori agar tetap fokus dan produktif!
+- 📫 **Let's Moots:** <a href="mailto:rizkiangga866@gmail.com">Kirim Email</a> | <a href="https://barokahweb-solutions.netlify.app/bws.html">Manage Service</a>
+
+<br>
+
+<!-- Visual Animasi Gundam & Data Grid -->
+<div align="center">
+  <h3>🤖 Mecha Dashboard & Contribution Grid</h3>
+  <img src="https://raw.githubusercontent.com/kiki-pratama/kiki-pratama/main/gundam-dashboard.gif" width="95%" alt="Gundam Animated Dashboard" />
+</div>
 
 <br>
 
@@ -71,13 +79,13 @@ Tech Enthusiat yang lagi eksplorasi AI, Cybersecurity & Fullstack Dev.
 
 ### 🚀 Project Showcase <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-Beberapa solusi digital yang telah saya kembangkan:
+Beberapa solusi digital yang telah dikembangkan:
 
-| Nama Proyek | Detail & Deskripsi | Teknologi yang Digunakan |
+| Nama Project | Detail & Deskripsi | Teknologi yang Digunakan |
 | :--- | :--- | :--- |
 | 🎓 **[SkoolMath AI 2.0](https://chatbot-mathai.streamlit.app/)** | Asisten cerdas EdTech dengan *Triple-Fallback Architecture*, memori RAG interaktif, penjelasan audio (*Text-to-Speech*), dan *dynamic graph plotting*. | `Python` `Streamlit` `Gemini API` `PDF Generation` |
-| 🏢 **Chatbot HRD** | Aplikasi chatbot khusus internal HRD Distrik Jakarta Banten untuk mengelola informasi dari referensi dataset dokumen via Google Drive. | `Python` `Streamlit` `PyCharm` |
-| 🎨 **Bandung Creative Hub** | Rekayasa prompt tingkat lanjut untuk menghasilkan struktur *website* fungsional dari data operasional direktori lokal. | `Prompt Engineering` `AI Generation` |
+| 🏢 **HRD Chatbot Banten** | Aplikasi chatbot khusus internal HRD Distrik Jakarta Banten untuk mengelola informasi dari referensi dataset dokumen via Google Drive. | `Python` `Streamlit` `PyCharm` |
+| 🎨 **SOC Tools* | Rekayasa prompt tingkat lanjut untuk menghasilkan struktur *website* fungsional dari data operasional direktori lokal. | `Prompt Engineering` `AI Generation` |
 | 💼 **[Barokah Web Solutions](https://barokahweb-solutions.netlify.app/bws.html)** | Layanan pembuatan *website*, integrasi aset modern, serta penyusunan komponen UI bersih tanpa batas (*borderless*). | `HTML/CSS` `UI/Design` |
 
 <br>
