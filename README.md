@@ -1,92 +1,94 @@
+<!-- Header Banner Gelombang (Versi Stabil) -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=006994&height=200&section=header&text=Hi!%20I'm%20Kiki%20Pratama&fontSize=45&fontColor=ffffff" width="100%" alt="Header Banner" />
+  
+  <br><br>
 
-<!-- Animated Waving Hand & Greeting -->
-<h1>
-  Hi, Welcome ya! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
-</h1>
-
-<!-- Auto-Typing Text Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=006994&center=true&vCenter=true&width=500&lines=AI+%26+Web+Developer;Building+Interactive+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-
-<br>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kipolzz&color=006994&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-### 👨‍💻 Tentang Saya <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="25" height="25" />
-
-Pengembangan yang dikerjakan banyak berfokus pada arsitektur AI, *web development*, dan solusi interaktif.
-* 🔭 **SkoolMath AI 2.0** (Arsitektur RAG, Text-to-Speech, & Integrasi Gemini).
-* 🌱 **Artificial Intelligence, Data Science, dan Web Development**.
-* 💼 Manage Service **[Barokah Web Solutions](https://barokahweb-solutions.netlify.app/bws.html)**.
-* 💬 To be discuss: **Python, Streamlit, dan Prompt Engineering**.
-* 📫 Let's Collaborate: [Kirim Email](#) atau kunjungi [Portofolio Saya](https://barokahweb-solutions.netlify.app/bws.html).
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**AI, Cloud & Databases:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-**Environments & Version Control:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br>
-
-### 🚀 Proyek Unggulan
-
-| Nama Proyek | Deskripsi | Tautan |
-|---|---|---|
-| **SkoolMath AI 2.0** | Asisten EdTech multimodal dengan Arsitektur Triple-Fallback, sistem memori RAG, dan penjelasan audio. | [Coba Live Demo](https://chatbot-mathai.streamlit.app/) |
-| **Barokah Web Solutions** | Layanan pembuatan dan pengembangan website, lengkap dengan aset dan komponen portofolio modern. | [Kunjungi Website](https://barokahweb-solutions.netlify.app/bws.html) |
-
-<br>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kipolzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <!-- Auto-Typing Text -->
+  <a href="https://github.com/kiki-pratama">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=006994&center=true&vCenter=true&width=600&lines=Membangun+Solusi+Interaktif+dengan+AI;Mendesain+Arsitektur+Web+Modern;Selamat+Datang+di+Profil+GitHub+Saya!" alt="Typing SVG" />
   </a>
   
   <br><br>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kipolzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006994" width="80%" alt="Top Languages" />
-  
-  <br><br>
 
-  <!-- GitHub Stats & Streak Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kipolzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=006994" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Kipolzz&theme=tokyonight&hide_border=true&background=0D1117&ring=006994&currStreakNum=006994" width="48%" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kipolzz&bg_color=0D1117&color=006994&line=006994&point=FFFFFF&area=true&hide_border=true&title_color=006994" width="100%" alt="Activity Graph" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=kiki-pratama&color=006994&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
+<br>
+
+---
+
+### 👨‍💻 About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" height="25" />
+
+Tech Enthusiat yang lagi eksplorasi AI, Cybersecurity & Fullstack Dev. 
+
+- 🎯 **Main Goals:** Mengembangkan agen AI *multimodal* dan aplikasi berbasis data.
+- 💡 **Specialist:** Python, integrasi LLM (Google Gemini API, Hugging Face), dan *rapid prototyping* menggunakan Streamlit.
+- 🏋️‍♂️ **Me Time:** Rajin Riset & develop something unique yang bermanfaat!
+- 📫 **Let's Connect:** <a href="mailto:rizkiangga866@gmail.com">Kirim Email</a> | <a href="https://barokahweb-solutions.netlify.app/bws.html">Jasa Manage Service Web Apps</a>
+
+<br>
+
+---
+
+### 🛠️ Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>🧠 AI & Machine Learning</b></td>
+    <td align="center" width="33%"><b>💻 Web & Frontend</b></td>
+    <td align="center" width="33%"><b>☁️ Cloud & Database</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <b>IDE & Environments:</b><br><br>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" /> 
+</div>
+
+<br>
+
+---
+
+### 🚀 Project Showcase <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+
+Beberapa solusi digital yang telah saya kembangkan:
+
+| Nama Proyek | Detail & Deskripsi | Teknologi yang Digunakan |
+| :--- | :--- | :--- |
+| 🎓 **[SkoolMath AI 2.0](https://chatbot-mathai.streamlit.app/)** | Asisten cerdas EdTech dengan *Triple-Fallback Architecture*, memori RAG interaktif, penjelasan audio (*Text-to-Speech*), dan *dynamic graph plotting*. | `Python` `Streamlit` `Gemini API` `PDF Generation` |
+| 🏢 **Chatbot HRD** | Aplikasi chatbot khusus internal HRD Distrik Jakarta Banten untuk mengelola informasi dari referensi dataset dokumen via Google Drive. | `Python` `Streamlit` `PyCharm` |
+| 🎨 **Bandung Creative Hub** | Rekayasa prompt tingkat lanjut untuk menghasilkan struktur *website* fungsional dari data operasional direktori lokal. | `Prompt Engineering` `AI Generation` |
+| 💼 **[Barokah Web Solutions](https://barokahweb-solutions.netlify.app/bws.html)** | Layanan pembuatan *website*, integrasi aset modern, serta penyusunan komponen UI bersih tanpa batas (*borderless*). | `HTML/CSS` `UI/Design` |
+
+<br>
+
+---
+
+<div align="center">
+  <i>"Menulis kode dengan pikiran jernih, membangun sistem yang berdampak."</i><br><br>
+  
+  <!-- Social Media Badges -->
+  <a href="https://barokahweb-solutions.netlify.app/bws.html">
+    <img src="https://img.shields.io/badge/Kunjungi_Portofolio-006994?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
