@@ -23,16 +23,15 @@
 
 Seorang Tech Enthusiat yang lagi eksplorasi Artificial Intelligence, Cybersecurity, dan IT Dev.
 
-- 🎯 **Main Goals:** Mengembangkan agen AI *multimodal* dan aplikasi berbasis data.
-- 💡 **Spesialist:** Python, integrasi LLM (Google Gemini API, Hugging Face), dan *rapid prototyping* menggunakan Streamlit.
-- 🏋️‍♂️ **Daily Routine:** Saya rutin berolahraga dan menjaga kebugaran melalui pola defisit kalori agar tetap fokus dan produktif!
+- 🎯 **Main Goals:**  Develop agent AI *multimodal* dan aplikasi berbasis data.
+- 💡 **Spesialist:** Python, LLM (Google Gemini API, Hugging Face), and *rapid prototyping* using Streamlit.
+- 🏋️‍♂️ **Daily Routine:** Full Time as an L2 Security Operation Center Analyst
 - 📫 **Let's Moots:** <a href="mailto:rizkiangga866@gmail.com">Kirim Email</a> | <a href="https://barokahweb-solutions.netlify.app/bws.html">Manage Service</a>
 
 <br>
 
 <!-- Visual Animasi Gundam & Data Grid -->
 <div align="center">
-  <h3>🤖 Dashboard</h3>
   <img src="gundam.jpg" width="95%" alt="Gundam Animated Dashboard" />
 </div>
 
@@ -84,8 +83,8 @@ Beberapa solusi digital yang telah dikembangkan:
 | Nama Project | Detail & Deskripsi | Teknologi yang Digunakan |
 | :--- | :--- | :--- |
 | 🎓 **[SkoolMath AI 2.0](https://chatbot-mathai.streamlit.app/)** | Asisten cerdas EdTech dengan *Triple-Fallback Architecture*, memori RAG interaktif, penjelasan audio (*Text-to-Speech*), dan *dynamic graph plotting*. | `Python` `Streamlit` `Gemini API` `PDF Generation` |
-| 🏢 **HRD Chatbot Banten** | Aplikasi chatbot khusus internal HRD Distrik Jakarta Banten untuk mengelola informasi dari referensi dataset dokumen via Google Drive. | `Python` `Streamlit` `PyCharm` |
-| 🎨 **SOC Tools* | Rekayasa prompt tingkat lanjut untuk menghasilkan struktur *website* fungsional dari data operasional direktori lokal. | `Prompt Engineering` `AI Generation` |
+| 🏢 **HRD Chatbot YRI** | Apps chatbot khusus internal HRD Distrik Jakarta Banten untuk mengelola informasi dari referensi dataset dokumen via Google Drive. | `Python` `Streamlit` `PyCharm` |
+| 🎨 **Tools SOC** | Advance prompting untuk menghasilkan struktur *website* fungsional dari data operasional direktori lokal. | `Prompt Engineering` `AI Generation` |
 | 💼 **[Barokah Web Solutions](https://barokahweb-solutions.netlify.app/bws.html)** | Layanan pembuatan *website*, integrasi aset modern, serta penyusunan komponen UI bersih tanpa batas (*borderless*). | `HTML/CSS` `UI/Design` |
 
 <br>
