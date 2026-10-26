@@ -95,7 +95,7 @@ Beberapa solusi digital yang telah dikembangkan:
   <i>"Menulis kode dengan pikiran jernih, membangun sistem yang berdampak."</i><br><br>
   
   <!-- Social Media Badges -->
-  <a href="https://barokahweb-solutions.netlify.app/bws.html">
+  <a href="https://kiki-pratama.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Kunjungi_Portofolio-006994?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
